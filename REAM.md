@@ -14,3 +14,9 @@ A modern web application to manage personal events with login system, event dash
 ```bash
 pip install -r requirements.txt
 python app.py
+
+### 🔐 Login
+![Login](assets/login.png)
+
+### 📋 Dashboard
+![Dashboard](assets/dashboard.png)
